@@ -1,6 +1,10 @@
-###  Hi👋, I'm AKSHAY 
+<div align="center">
+###  Hi👋, I'm AKSHAY
+<div>
 ___________________________________________________________________________________________________________________________________________________________________________________________
+<div align="center">
 ###                                          A passionate coder who is gonna become a full stack dev soon
+<div>
 ### Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
