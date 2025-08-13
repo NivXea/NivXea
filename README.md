@@ -1,8 +1,8 @@
 <div align="center">
   
-### Hi👋, I'm AKSHAY
+### Hi👋, I'm NivXea
 ___________________________________________________________________________________________________________________________________________
-### A passionate coder who is gonna become a full stack dev soon
+### A guy who has eager to learn more
 <div>
 <div align="left">
 
