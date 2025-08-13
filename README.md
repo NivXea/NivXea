@@ -2,7 +2,7 @@
 ###  Hi👋, I'm AKSHAY
 ___________________________________________________________________________________________________________________________________________________________________________________________
 ###                                          A passionate coder who is gonna become a full stack dev soon
-</div>
+<div>
 <div align="left">
 ### Languages and Tools:
 <p>
@@ -22,4 +22,4 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning C , C++ 
 - 💬 Ask me about How I Started My Journey and where i wish to Go..
 - 📫 How to reach me: Why would you reach me💔
-  </div>
+  <div>
