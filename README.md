@@ -1,9 +1,19 @@
-## Hi there 👋
+                                                                          ## Hi I'm AKSHAY.. 👋
 
-<!--
-**AKSHU-1201/AKSHU-1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+### Languages and Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+</p>
+
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSHU-1201&show_icons=true&theme=tokyonight)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=AKSHU-1201&color=blue&style=flat)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
