@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 </p>
 
-
+### My Github Stats
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSHU-1201&show_icons=true&theme=tokyonight)
 
 
