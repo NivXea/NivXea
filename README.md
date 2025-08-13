@@ -1,8 +1,8 @@
 <div align="center">
   
-### Hi👋, I'm NivXea
+# Hi👋, I'm NivXea
 ___________________________________________________________________________________________________________________________________________
-### A passionate guy who is chasing his dreams
+## A passionate guy who is chasing his dreams
 <div>
 <div align="left">
 
