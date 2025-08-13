@@ -1,4 +1,4 @@
-                                                                      ## Hi👋, I'm AKSHAY..
+                                                                ## Hi👋, I'm AKSHAY..
 
 ### Languages and Tools:
 <p>
