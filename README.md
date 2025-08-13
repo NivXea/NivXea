@@ -2,7 +2,7 @@
   
 ### Hi👋, I'm NivXea
 ___________________________________________________________________________________________________________________________________________
-### A guy who has eager to learn more
+### A passionate guy who is chasing his dreams
 <div>
 <div align="left">
 
