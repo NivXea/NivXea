@@ -14,7 +14,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________
 
 ### My Github Stats
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSHU-1201&show_icons=true&theme=tokyonight)
+![NivXea's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivXea&show_icons=true&theme=tokyonight)
 
 
 
