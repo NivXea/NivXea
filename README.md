@@ -12,7 +12,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 </p>
-___________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
 ### My Github Stats
 ![NivXea's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivXea&show_icons=true&theme=tokyonight)
