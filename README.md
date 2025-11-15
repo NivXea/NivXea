@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 - 🔭 I’m currently working on becoming the best version of myself💥  
-- 🌱 I’m currently learning C , C++ 
+- 🌱 I’m currently learning sk-learn and C++
 - 💬 Ask me about How I Started My Journey and where i wish to Go..
 - 📫 How to reach me: Why would you reach me💔
   <div>
