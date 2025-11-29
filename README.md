@@ -18,7 +18,8 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________
 
 ### My Github Stats
-![NivXea's GitHub stats](https://github-readme-stats.vercel.app/api?username=NivXea&show_icons=true&theme=tokyonight.svg)
+![Stats](https://github-readme-stats-mirror.vercel.app/api?username=NivXea&show_icons=true&theme=tokyonight)
+
 
 
 
